@@ -1,0 +1,42 @@
+Body{
+background-color: lightblue;
+}
+h1{
+     
+       color: indigo;
+         font-style: bold;
+	    position: relative;
+	        left: 16em;
+
+		}
+
+		h2{
+		  font-style: oblique;
+		    color: indigo;
+		      font-weight: 100;
+		        font-size: 40px;
+			  width: 50%;
+			  text-align: right;
+			  font-style: bold;
+			  position: relative;
+			      left: 1em;
+			        
+				}
+
+				li{
+
+				    color: indigo;
+				          font-size: 20px;
+					  font-style: bold;
+
+					  }
+
+					  p, h3{
+					      color: grey;
+					          word-wrap: break-word;
+						      width: 50em;
+						      text-align: justify;
+						      font-style: oblique;}
+						      h3{
+						      width: 70%;}
+
